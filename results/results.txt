@@ -1,0 +1,3 @@
+loading: TLS handshake taking place
+certificate: For self-singed certificate
+website: https://localhost
