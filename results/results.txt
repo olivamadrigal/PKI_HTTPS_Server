@@ -9,3 +9,5 @@ Pony Root CA ===> Pony Singing CA
 
 Localhost private key and public key (certificate) signed by Pony Signing CA
 
+Tested with Firefox, Safari, & Chrome
+
